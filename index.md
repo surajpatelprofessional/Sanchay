@@ -30,7 +30,3 @@ user manually clicking those buttons themselves.
 
 See the extension's Chrome Web Store listing for a description of why
 each permission is requested.
-
-## Contact
-
-[YOUR EMAIL HERE]
